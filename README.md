@@ -5,7 +5,9 @@
 Συμμετοχή στο διαγωνισμό ρομποτικής της ellak σχολικού έτους 2024 - 25
 Κατηγορία Δημοτικού
 
-Η ομάδα μας:  Παναγιώτης, 
+Η ομάδα μας:  Δανάη, Ορφέας, Παναγιώτης, Φωκάς
+
+[![!cobhouse](videoyoutube.png)][def2]
 
 
 ## Κατηγορίες που προσεγγίζει η εργασία μας είναι:
@@ -35,4 +37,4 @@
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 
-
+[def2]: https://youtu.be/yRxeDQ2eVNU
